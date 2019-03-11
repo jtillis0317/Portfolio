@@ -1,5 +1,8 @@
 # Portfolio
-Check out some of my most recent projects. 
+Here are some of my most recent projects. 
+
+**Study to Improve Number of Twitter Engagements: Fresh Tape Media**:
+Fresh Tape Media (FTM) is a company that creates made-for-social video content for professional sports leagues, teams, athletes, and broadcasters. In this project, I used natural language processing (utilizing spaCy) to clean the data and engineer features. Next, I used supervised learning models (k-nearest neighbors, lasso regression, ridge regression, random forest) and clustering to be able to predict the success of a given tweet. Finally, I used feature importance to determine the features that most positively and negatively contribute to a tweet's success. 
 
 **Unsupervised NLP Investigation to Improve Ability to Classify Speech Sources**:
 In this study, I used natural language processing, clustering, and supervised learning models to classify sentences of inaugural speeches by president.
